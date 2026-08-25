@@ -1,0 +1,1 @@
+console.log("Hello, Docker! I am a Node.js app running in a container.");
